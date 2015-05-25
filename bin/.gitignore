@@ -1,0 +1,10 @@
+/api/
+/dao/
+/data/
+/env.properties
+/logback.groovy
+/logic/
+/main/
+/plugins/
+/presentation/
+/test.properties
